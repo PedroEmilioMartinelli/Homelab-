@@ -77,4 +77,3 @@ O projeto não contém dados sensíveis, informações confidenciais ou acesso e
 
 📌 **Autor:** Pedro Emilio Martinelli  
 📧 Contato: pedroemiliomartinelli@gmail.com  
-🔗 GitHub / LinkedIn disponíveis no perfil
